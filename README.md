@@ -1,1 +1,2 @@
-# Java-script-
+Hi there, I'm CHETNA!
+Hi, I’m a Bachelor's of Computer Application student at Galgotias University with a passion for programming and technology. I have hands-on experience in Java, C/C++, Python, and SQL, along with web development and cloud technologies.I'm expert in JAVA programming.I’m eager to contribute to innovative projects and grow in a challenging environment. Let’s connect and create something amazing!
